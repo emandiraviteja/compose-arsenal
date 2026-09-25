@@ -1,19 +1,3 @@
-This README should explain that the Showcase is the **single installable demo app** for exploring Compose Arsenal libraries.
-
-### Create this file
-
-In Android Studio:
-
-```text
-samples
-└── showcase
-    ├── README.md   ← create this
-    ├── build.gradle.kts
-    └── src
-```
-
-Paste this complete content:
-
 ````markdown
 # Compose Arsenal Showcase
 
