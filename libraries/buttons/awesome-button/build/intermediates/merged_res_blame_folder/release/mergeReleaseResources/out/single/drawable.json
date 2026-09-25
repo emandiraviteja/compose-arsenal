@@ -1,42 +1,42 @@
 [
     {
         "merged": "com.composearsenal.awesomebutton.awesome-button-release-31:/drawable/ic_call_answer_low.xml",
-        "source": "com.composearsenal.awesomebutton.awesome-button-core-1.15.0-17:/drawable/ic_call_answer_low.xml"
+        "source": "com.composearsenal.awesomebutton.awesome-button-core-1.15.0-21:/drawable/ic_call_answer_low.xml"
     },
     {
         "merged": "com.composearsenal.awesomebutton.awesome-button-release-31:/drawable/notification_bg_low.xml",
-        "source": "com.composearsenal.awesomebutton.awesome-button-core-1.15.0-17:/drawable/notification_bg_low.xml"
+        "source": "com.composearsenal.awesomebutton.awesome-button-core-1.15.0-21:/drawable/notification_bg_low.xml"
     },
     {
         "merged": "com.composearsenal.awesomebutton.awesome-button-release-31:/drawable/notification_bg.xml",
-        "source": "com.composearsenal.awesomebutton.awesome-button-core-1.15.0-17:/drawable/notification_bg.xml"
+        "source": "com.composearsenal.awesomebutton.awesome-button-core-1.15.0-21:/drawable/notification_bg.xml"
     },
     {
         "merged": "com.composearsenal.awesomebutton.awesome-button-release-31:/drawable/notification_tile_bg.xml",
-        "source": "com.composearsenal.awesomebutton.awesome-button-core-1.15.0-17:/drawable/notification_tile_bg.xml"
+        "source": "com.composearsenal.awesomebutton.awesome-button-core-1.15.0-21:/drawable/notification_tile_bg.xml"
     },
     {
         "merged": "com.composearsenal.awesomebutton.awesome-button-release-31:/drawable/ic_call_answer_video.xml",
-        "source": "com.composearsenal.awesomebutton.awesome-button-core-1.15.0-17:/drawable/ic_call_answer_video.xml"
+        "source": "com.composearsenal.awesomebutton.awesome-button-core-1.15.0-21:/drawable/ic_call_answer_video.xml"
     },
     {
         "merged": "com.composearsenal.awesomebutton.awesome-button-release-31:/drawable/ic_call_decline_low.xml",
-        "source": "com.composearsenal.awesomebutton.awesome-button-core-1.15.0-17:/drawable/ic_call_decline_low.xml"
+        "source": "com.composearsenal.awesomebutton.awesome-button-core-1.15.0-21:/drawable/ic_call_decline_low.xml"
     },
     {
         "merged": "com.composearsenal.awesomebutton.awesome-button-release-31:/drawable/ic_call_decline.xml",
-        "source": "com.composearsenal.awesomebutton.awesome-button-core-1.15.0-17:/drawable/ic_call_decline.xml"
+        "source": "com.composearsenal.awesomebutton.awesome-button-core-1.15.0-21:/drawable/ic_call_decline.xml"
     },
     {
         "merged": "com.composearsenal.awesomebutton.awesome-button-release-31:/drawable/ic_call_answer_video_low.xml",
-        "source": "com.composearsenal.awesomebutton.awesome-button-core-1.15.0-17:/drawable/ic_call_answer_video_low.xml"
+        "source": "com.composearsenal.awesomebutton.awesome-button-core-1.15.0-21:/drawable/ic_call_answer_video_low.xml"
     },
     {
         "merged": "com.composearsenal.awesomebutton.awesome-button-release-31:/drawable/ic_call_answer.xml",
-        "source": "com.composearsenal.awesomebutton.awesome-button-core-1.15.0-17:/drawable/ic_call_answer.xml"
+        "source": "com.composearsenal.awesomebutton.awesome-button-core-1.15.0-21:/drawable/ic_call_answer.xml"
     },
     {
         "merged": "com.composearsenal.awesomebutton.awesome-button-release-31:/drawable/notification_icon_background.xml",
-        "source": "com.composearsenal.awesomebutton.awesome-button-core-1.15.0-17:/drawable/notification_icon_background.xml"
+        "source": "com.composearsenal.awesomebutton.awesome-button-core-1.15.0-21:/drawable/notification_icon_background.xml"
     }
 ]

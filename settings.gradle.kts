@@ -26,3 +26,5 @@ rootProject.name = "ComposeArsenal"
 
 include(":libraries:buttons:awesome-button")
 project(":libraries:buttons:awesome-button").projectDir = file("libraries/buttons/awesome-button")
+include(":samples:showcase")
+project(":samples:showcase").projectDir = file("samples/showcase")

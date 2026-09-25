@@ -1,0 +1,9 @@
+com.composearsenal.awesomebutton.awesome-button-pngs-0 /Users/emandiraviteja/AndroidStudioProjects/ComposeArsenal/libraries/buttons/awesome-button/build/generated/res/pngs/debug
+com.composearsenal.awesomebutton.awesome-button-updated_navigation_xml-1 /Users/emandiraviteja/AndroidStudioProjects/ComposeArsenal/libraries/buttons/awesome-button/build/generated/updated_navigation_xml/debug
+com.composearsenal.awesomebutton.awesome-button-mergeDebugResources-2 /Users/emandiraviteja/AndroidStudioProjects/ComposeArsenal/libraries/buttons/awesome-button/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.composearsenal.awesomebutton.awesome-button-mergeDebugResources-3 /Users/emandiraviteja/AndroidStudioProjects/ComposeArsenal/libraries/buttons/awesome-button/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.composearsenal.awesomebutton.awesome-button-debug-4 /Users/emandiraviteja/AndroidStudioProjects/ComposeArsenal/libraries/buttons/awesome-button/build/intermediates/merged_res/debug/mergeDebugResources
+com.composearsenal.awesomebutton.awesome-button-debug-5 /Users/emandiraviteja/AndroidStudioProjects/ComposeArsenal/libraries/buttons/awesome-button/build/intermediates/packaged_res/debug/packageDebugResources
+com.composearsenal.awesomebutton.awesome-button-debug-6 /Users/emandiraviteja/AndroidStudioProjects/ComposeArsenal/libraries/buttons/awesome-button/src/debug/res
+com.composearsenal.awesomebutton.awesome-button-main-7 /Users/emandiraviteja/AndroidStudioProjects/ComposeArsenal/libraries/buttons/awesome-button/src/main/res
+gradleHome-0 /Users/emandiraviteja/.gradle
