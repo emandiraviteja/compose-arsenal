@@ -23,4 +23,6 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "ComposeArsenal"
-include(":app")
+
+include(":libraries:buttons:awesome-button")
+project(":libraries:buttons:awesome-button").projectDir = file("libraries/buttons/awesome-button")
