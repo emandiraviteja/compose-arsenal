@@ -1,7 +1,10 @@
 package com.composearsenal.showcase
 
+import android.content.Intent
+import android.net.Uri
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
@@ -16,6 +19,7 @@ import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.OutlinedTextFieldDefaults
 import androidx.compose.material3.Text
@@ -28,6 +32,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.platform.LocalContext
 
 @Composable
 fun LibraryListScreen(
@@ -186,6 +191,8 @@ private fun LibraryCard(
     library: LibraryItem,
     onClick: () -> Unit
 ) {
+    val context = LocalContext.current
+
     Card(
         onClick = onClick,
         modifier = Modifier.fillMaxWidth(),
@@ -225,6 +232,38 @@ private fun LibraryCard(
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
                 modifier = Modifier.padding(top = 8.dp)
             )
+
+            // Version
+            Text(
+                text = "Version ${library.version}",
+                style = MaterialTheme.typography.labelMedium,
+                fontWeight = FontWeight.SemiBold,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
+                modifier = Modifier.padding(top = 12.dp)
+            )
+
+            // GitHub Button
+            Row(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(top = 12.dp),
+                horizontalArrangement = Arrangement.End
+            ) {
+                OutlinedButton(
+                    onClick = {
+                        val intent = Intent(
+                            Intent.ACTION_VIEW,
+                            Uri.parse(library.githubUrl)
+                        )
+                        context.startActivity(intent)
+                    }
+                ) {
+                    Text(
+                        text = "GitHub",
+                        fontWeight = FontWeight.SemiBold
+                    )
+                }
+            }
         }
     }
 }
