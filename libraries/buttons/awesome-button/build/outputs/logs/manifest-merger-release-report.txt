@@ -1,16 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/emandiraviteja/AndroidStudioProjects/ComposeArsenal/libraries/buttons/awesome-button/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest11535662397708501988.xml:2:13-83
-INJECTED from /Users/emandiraviteja/AndroidStudioProjects/ComposeArsenal/libraries/buttons/awesome-button/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest11535662397708501988.xml:2:13-83
+ADDED from /Users/emandiraviteja/AndroidStudioProjects/ComposeArsenal/libraries/buttons/awesome-button/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest2146070730961203930.xml:2:13-83
+INJECTED from /Users/emandiraviteja/AndroidStudioProjects/ComposeArsenal/libraries/buttons/awesome-button/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest2146070730961203930.xml:2:13-83
 	package
-		INJECTED from /Users/emandiraviteja/AndroidStudioProjects/ComposeArsenal/libraries/buttons/awesome-button/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest11535662397708501988.xml
+		INJECTED from /Users/emandiraviteja/AndroidStudioProjects/ComposeArsenal/libraries/buttons/awesome-button/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest2146070730961203930.xml
 	xmlns:android
-		ADDED from /Users/emandiraviteja/AndroidStudioProjects/ComposeArsenal/libraries/buttons/awesome-button/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest11535662397708501988.xml:2:23-81
+		ADDED from /Users/emandiraviteja/AndroidStudioProjects/ComposeArsenal/libraries/buttons/awesome-button/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest2146070730961203930.xml:2:23-81
 uses-sdk
-INJECTED from /Users/emandiraviteja/AndroidStudioProjects/ComposeArsenal/libraries/buttons/awesome-button/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest11535662397708501988.xml reason: use-sdk injection requested
-INJECTED from /Users/emandiraviteja/AndroidStudioProjects/ComposeArsenal/libraries/buttons/awesome-button/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest11535662397708501988.xml
-INJECTED from /Users/emandiraviteja/AndroidStudioProjects/ComposeArsenal/libraries/buttons/awesome-button/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest11535662397708501988.xml
+INJECTED from /Users/emandiraviteja/AndroidStudioProjects/ComposeArsenal/libraries/buttons/awesome-button/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest2146070730961203930.xml reason: use-sdk injection requested
+INJECTED from /Users/emandiraviteja/AndroidStudioProjects/ComposeArsenal/libraries/buttons/awesome-button/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest2146070730961203930.xml
+INJECTED from /Users/emandiraviteja/AndroidStudioProjects/ComposeArsenal/libraries/buttons/awesome-button/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest2146070730961203930.xml
 	android:targetSdkVersion
-		INJECTED from /Users/emandiraviteja/AndroidStudioProjects/ComposeArsenal/libraries/buttons/awesome-button/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest11535662397708501988.xml
+		INJECTED from /Users/emandiraviteja/AndroidStudioProjects/ComposeArsenal/libraries/buttons/awesome-button/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest2146070730961203930.xml
 	android:minSdkVersion
-		INJECTED from /Users/emandiraviteja/AndroidStudioProjects/ComposeArsenal/libraries/buttons/awesome-button/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest11535662397708501988.xml
+		INJECTED from /Users/emandiraviteja/AndroidStudioProjects/ComposeArsenal/libraries/buttons/awesome-button/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest2146070730961203930.xml

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.composearsenal.awesomebutton.awesome-button-release-29:/values-v30/values-v30.xml",
+            "outputFile": "com.composearsenal.awesomebutton.awesome-button-release-31:/values-v30/values-v30.xml",
             "map": [
                 {
-                    "source": "/Users/emandiraviteja/.gradle/caches/9.6.0/transforms/784f124f7967dd1b01b04febf7c0608d/transformed/material3/res/values-v30/values-v30.xml",
+                    "source": "/Users/emandiraviteja/.gradle/caches/9.6.0/transforms/0fb3e6e7c2e88b6f7911e900e2f84ca3/transformed/material3/res/values-v30/values-v30.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "com.composearsenal.awesomebutton.awesome-button-mergeReleaseResources-27:/values-v30/values-v30.xml",
+            "outputFile": "com.composearsenal.awesomebutton.awesome-button-mergeReleaseResources-29:/values-v30/values-v30.xml",
             "map": [
                 {
-                    "source": "/Users/emandiraviteja/.gradle/caches/9.6.0/transforms/784f124f7967dd1b01b04febf7c0608d/transformed/material3/res/values-v30/values-v30.xml",
+                    "source": "/Users/emandiraviteja/.gradle/caches/9.6.0/transforms/0fb3e6e7c2e88b6f7911e900e2f84ca3/transformed/material3/res/values-v30/values-v30.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
