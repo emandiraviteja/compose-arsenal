@@ -1,7 +1,3 @@
-Yes 👍 I understand. You want the **entire README as one clean Markdown file**, not separate pieces, and without my explanatory text accidentally becoming part of the README.
-
-Use this as the **complete contents of `libraries/buttons/awesome-button/README.md`**:
-
 ````markdown
 # Awesome Button
 
